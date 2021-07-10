@@ -1,0 +1,1 @@
+contar = lambda texto: len(texto)

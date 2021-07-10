@@ -1,0 +1,1 @@
+#archivo python, no debe llevar contenido, funciona como constructor del paquete
